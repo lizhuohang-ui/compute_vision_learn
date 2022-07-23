@@ -1,0 +1,6 @@
+lxml==4.8.0
+matplotlib==3.5.1
+numpy==1.21.5
+Pillow==9.2.0
+torch==1.11.0
+torchvision==0.12.0
